@@ -1,4 +1,36 @@
 {
-  "ciphertext": "CSv6RWwjmvGTN3ROldgYUkqapLOMu9WR",  
-  "nonce": "s3W9p7IRsjI7t9P5xuSwvQ=="
-}
+    "data":[{
+    "id":0,
+    "title":"",
+    "flag":"",
+    "url":"vless://2f3a5ba7-b325-4147-b0dd-18567cd6ecc3@tgrns3.vidasplayer.ir:8080?encryption=none&security=none&type=ws&path=%2F#%F0%9F%92%AB%20GR1%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D9%87%D9%85%D9%87%20%D9%86%D8%AA%20%D9%87%D8%A7",
+    "ping":0,
+    "isRefresh":false
+    },
+    {
+    "id":0,
+    "title":"",
+    "flag":"",
+    "url":"vless://2f3a5ba7-b325-4147-b0dd-18567cd6ecc3@tnlns3.vidasplayer.ir:8081?encryption=none&security=none&type=ws&path=%2F#%F0%9F%92%AB%20NL1%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%D9%87%D9%85%D9%87%20%D9%86%D8%AA%20%D9%87%D8%A7",
+    "ping":0,
+    "isRefresh":false
+    },
+    {
+    "id":0,
+    "title":"",
+    "flag":"",
+   "url": "vless://2f3a5ba7-b325-4147-b0dd-18567cd6ecc3@dgrns1.vertalist.ir:5553?encryption=none&security=reality&sni=stackoverflow.com&type=grpc#%F0%9F%92%AB%20GR2%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%7C%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%20%7C%20%D9%88%D8%A7%DB%8C%D9%81%D8%A7%DB%8C",
+    "ping":0,
+    "isRefresh":false
+    },
+    {
+    "id":0,
+    "title":"",
+    "flag":"",
+    "url":"vless://2f3a5ba7-b325-4147-b0dd-18567cd6ecc3@www.speedtest.net:2095?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%92%AB%20GR3%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84",
+    "ping":0,
+    "isRefresh":false
+    }
+    
+    ]
+    }
